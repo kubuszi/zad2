@@ -6,3 +6,6 @@ Użyte polecenie do uruchomienia usługi
 docker compose -f docker-ompose.dev.yml up -d
 ```
 
+Działanie
+
+<img src="img/1.png">
