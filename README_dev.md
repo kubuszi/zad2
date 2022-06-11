@@ -11,5 +11,6 @@ Działanie
 <img src="img/1.png">
 
 Obrazy zostały zbudowane wraz z uruchomieniem docker compose
+Uzyte zostaly Dockerfile.dev
 
 <img src="img/2.png">
