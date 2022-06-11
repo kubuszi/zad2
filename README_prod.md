@@ -14,3 +14,13 @@ Link do DockerHub'a: [DockerHub](https://hub.docker.com/repository/docker/kubusz
 Wykorzystanie obrazów z DockerHub'a
 
 <img src="img/4.png">
+
+## Uruchomienie usługi
+
+```bash
+docker compose up -d
+```
+
+## Działanie usługi
+
+<img src="img/5.png">
